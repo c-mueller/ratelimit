@@ -10,4 +10,5 @@ require (
 	github.com/prometheus/client_golang v1.5.0
 	github.com/stretchr/testify v1.5.1
 	golang.org/x/net v0.0.0-20200320181208-1c781a10960a
+	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1 // indirect
 )
